@@ -9,7 +9,7 @@
 | Property | Value |
 | :--- | :--- |
 | **Identity** | `01xd8` |
-| **Origin** | [@divyanshudhruv](https://github.com/divyanshudhruv) |
+| **Origin** | [@xxxxxxxxxxxxxx](#) |
 | **Interface** | [Codeforces](https://codeforces.com) |
 | **Status** | `Listening...` |
 
@@ -21,4 +21,4 @@
 > `Searching database...`  
 > `[####------] 40%`  
 > `[##########] 100%`  
-> `Match found: @divyanshudhruv`
+> `Match found: @xxxxxxxxxxxxxx`
